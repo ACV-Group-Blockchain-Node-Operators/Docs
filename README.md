@@ -1,6 +1,7 @@
 # ACV Group - Premier Blockchain Node Operators & Developers
 
-https://github.com/ACV-Group-Blockchain-Node-Operators/main-Docs/assets/90826754/d07b8dec-09aa-4b42-a555-a2ab6e494f2e
+![acv](https://github.com/ACV-Group-Blockchain-Node-Operators/Docs/assets/90826754/61d2c0e6-2076-46c9-a013-31d769f7a9ee)
+
 
 #### Introduction
 
